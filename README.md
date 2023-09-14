@@ -1,2 +1,2 @@
 # Maquette_site_ecommerce
-En cours d'amélioration
+En cours d'amélioration...
