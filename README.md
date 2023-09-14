@@ -1,2 +1,4 @@
 # Maquette_site_ecommerce
-En cours d'amélioration...
+Ce site web est une maquette de site de ecommerce.
+Cette boutique fictive est un business de vente de skateboard.
+(A noter que ce site n'est pas terminé, des modifications sont à venir)
